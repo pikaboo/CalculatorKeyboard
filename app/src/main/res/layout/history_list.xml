@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView
+    android:paddingTop="5dp"
+    android:id="@+id/historyList"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="120dp"
+    android:listSelector="@android:color/transparent"
+    android:scrollbars="none"
+    android:background="@android:color/darker_gray"
+    />
